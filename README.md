@@ -12,7 +12,7 @@ Bisecting k-means is a hierarchical variation of k-means clustering, therefore, 
 
 The effectiveness of bisecting K-means depends on the data set and the problem at hand. In some cases, the traditional K-means method may work just as well or even better.
 
-Outcome for this dataset:
+Observations:
 
 In terms of runtime, clustering a set of 10 using K-means typically takes between 8 to 15 seconds, whereas Bisecting K-means extends from 7 to 10 minutes. However, K-means results exhibit variability across each iteration, whereas Bisecting K-means consistently avoids this limitation. Bisecting K-means is preferred.
 
