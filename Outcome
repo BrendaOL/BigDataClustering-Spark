@@ -1,0 +1,2 @@
+The two algorithms are considerably different in terms of duration, k-means is faster than bisecting k-means however the bisecting k-means algorithm is
+an improvement of k-means.
